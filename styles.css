@@ -46,11 +46,11 @@ button {
 }
 
 .screen {
-    min-height: 50px;
-    padding: 20px;
+    min-height: 40px;
+    padding: 10px;
     margin-bottom: 15px;
     border: 2px var(--border) solid;
-    border-radius: 20px;
+    border-radius: 10px;
     background-color:#2d1312; 
     font-size: 30px;
     color:#d14e4d;
