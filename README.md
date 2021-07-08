@@ -1,4 +1,5 @@
-# calculator
+# [calculator](https://6reg.github.io/calculator)
+
 
 ![http://www.datamath.org/Story/Datamath.htm](http://www.datamath.org/Story/Images/Datamath_Ad.jpg)
 
